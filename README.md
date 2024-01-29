@@ -148,3 +148,5 @@ execute_many(conn, df, 'weather_dim')
 conn.close()
 ```
 
+#### Airflow Output
+[![My Image](image/airflow_result.png)]
