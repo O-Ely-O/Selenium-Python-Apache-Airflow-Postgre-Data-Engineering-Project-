@@ -149,4 +149,7 @@ conn.close()
 ```
 
 #### Airflow Output
-[!My Image(image/airflow_result.PNG)]
+Here are the result of workflow in Apache Airflow![My Image](image/airflow_result.PNG)
+
+#### Postgres Output
+Data Was loaded in database![My_Image](image/postgre_result.PNG)
