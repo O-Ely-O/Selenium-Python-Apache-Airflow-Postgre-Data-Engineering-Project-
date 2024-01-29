@@ -149,4 +149,4 @@ conn.close()
 ```
 
 #### Airflow Output
-[![My Image](image/airflow_result.png)]
+[![My Image](image/airflow_result.PNG)]
